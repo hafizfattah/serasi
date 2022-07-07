@@ -1,0 +1,3 @@
+[submodule "weicon"]
+	path = weicon
+	url = git@github.com:hafizfattah/weicon.git
