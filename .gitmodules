@@ -4,3 +4,10 @@
 [submodule "packages/weicon"]
 	path = packages/weicon
 	url = git@github.com:hafizfattah/weicon.git
+
+[submodule "we-web"]
+	path = we-web
+	url = git@github.com:hafizfattah/we-web.git
+[submodule "packages/we-web"]
+	path = packages/we-web
+	url = git@github.com:hafizfattah/we-web.git
