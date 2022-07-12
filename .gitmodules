@@ -1,9 +1,3 @@
-[submodule "we-web"]
-	path = we-web
-	url = git@github.com:hafizfattah/we-web.git
-[submodule "packages/we-web"]
-	path = packages/we-web
-	url = git@github.com:hafizfattah/we-web.git
 [submodule "packages/we-icon"]
 	path = packages/we-icon
 	url = git@github.com:hafizfattah/we-icon.git
