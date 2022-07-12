@@ -1,6 +1,1 @@
-[submodule "packages/we-icon"]
-	path = packages/we-icon
-	url = git@github.com:hafizfattah/we-icon.git
-[submodule "packages/serasi"]
-	path = packages/serasi
-	url = git@github.com:hafizfattah/serasi.git
+
